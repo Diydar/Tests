@@ -1,0 +1,648 @@
+{
+  "Data": [
+    {
+      "Origem": "8",
+      "SubOrigem": "1",
+      "Protocolo": 400580698,
+      "Status": "5",
+      "Preview": "Protocolo teste não tratar",
+      "IDResolvedor": 188714,
+      "ExpertID": 188714,
+      "InstanceID": null,
+      "CategoryID": 436234,
+      "CustomerID": 67914474,
+      "PriorizacaoComportamento": 0,
+      "ClassificacaoID": 0,
+      "ClassificacaoIDTag": "[\"155194132\"]",
+      "LockTime": null,
+      "LockExpert": null,
+      "Date": "2022-04-20 11:41:09",
+      "DateUpdate": "2022-04-20 11:41:10",
+      "Resolution": 3,
+      "ProtocoloResolutionDate": "2022-04-20 11:41:09",
+      "TempoRespostaTotal": 127,
+      "ClassificacaoTagNome": {
+        "155194132": {
+          "TreeName": "LGPD",
+          "Tags": "Solicitação > Cadastro > Confirmar Tratamento de Dados",
+          "TagID": 1128308,
+          "TagName": "LGPD > Solicitação > Cadastro > Confirmar Tratamento de Dados",
+          "TreeID": 8578
+        }
+      },
+      "ExpertFullName": "Tamiris Martin",
+      "CategoryName": "LGPD > voz > Cliente ",
+      "Mensagens": [
+        {
+          "Remetente": 2,
+          "Tipo": 1,
+          "SubProtocolo": 0,
+          "CategoryID": 436234,
+          "Observacao": "Protocolo teste não tratar",
+          "Date": "2022-04-20 11:41:10",
+          "ClassificacaoID": 0,
+          "ClassificacaoIDTag": "[\"155194132\"]",
+          "ExpertID": 188714,
+          "InstanceID": null,
+          "MsgTipo": 81,
+          "ExpertFullName": "Tamiris Martin",
+          "CategoryName": "LGPD > voz > Cliente ",
+          "ClassificacaoTagNome": {
+            "155194132": {
+              "TreeName": "LGPD",
+              "Tags": "Solicitação > Cadastro > Confirmar Tratamento de Dados",
+              "TagID": 1128308,
+              "TagName": "LGPD > Solicitação > Cadastro > Confirmar Tratamento de Dados",
+              "TreeID": 8578
+            }
+          },
+          "Anexos": null,
+          "Origem": 8,
+          "Protocolo": 400580698,
+          "AppName": null
+        },
+        {
+          "Tipo": 61,
+          "SubProtocolo": 0,
+          "Date": "2022-04-20 11:41:10",
+          "MsgTipo": 82,
+          "Mensagem": "<p><strong>LGPD - Clientes</strong></p><br><p><strong>Solicitante:</strong> Cliente</p><p><strong>Selecione o tipo de pedido::</strong> Quero solicitar a anonimização/bloqueio/eliminação dos meus dados</p><p><strong>E-mail:</strong> tamirismartin@yahoo.com.br</p><p><strong>Data de Nascimento:</strong> 22/01/1988</p><p><strong>Telefone:</strong> 11997833086</p><p><strong>Por que está abrindo esta solicitação?:</strong> teste</p><p><strong>Realizou compras nos últimos 60 dias? (Lj Física, Site, APP):</strong> Não</p><p><strong>Onde? Mais de uma opção pode ser marcada:</strong> Aplicativo Carrefour</p><p><strong>Já realizou compras no site ou aplicativo Carrefour?:</strong> Não</p>",
+          "Message": "<p><strong>LGPD - Clientes</strong></p><br><p><strong>Solicitante:</strong> Cliente</p><p><strong>Selecione o tipo de pedido::</strong> Quero solicitar a anonimização/bloqueio/eliminação dos meus dados</p><p><strong>E-mail:</strong> tamirismartin@yahoo.com.br</p><p><strong>Data de Nascimento:</strong> 22/01/1988</p><p><strong>Telefone:</strong> 11997833086</p><p><strong>Por que está abrindo esta solicitação?:</strong> teste</p><p><strong>Realizou compras nos últimos 60 dias? (Lj Física, Site, APP):</strong> Não</p><p><strong>Onde? Mais de uma opção pode ser marcada:</strong> Aplicativo Carrefour</p><p><strong>Já realizou compras no site ou aplicativo Carrefour?:</strong> Não</p>",
+          "FormData": [
+            {
+              "FieldID": 6790,
+              "Label": "Solicitante",
+              "Value": "Cliente"
+            },
+            {
+              "FieldID": 6756,
+              "Label": "Selecione o tipo de pedido:",
+              "Value": "Quero solicitar a anonimização/bloqueio/eliminação dos meus dados"
+            },
+            {
+              "FieldID": 6758,
+              "Label": "E-mail",
+              "Value": "tamirismartin@yahoo.com.br"
+            },
+            {
+              "FieldID": 6760,
+              "Label": "Data de Nascimento",
+              "Value": "22/01/1988"
+            },
+            {
+              "FieldID": 6762,
+              "Label": "Telefone",
+              "Value": "11997833086"
+            },
+            {
+              "FieldID": 6764,
+              "Label": "Por que está abrindo esta solicitação?",
+              "Value": "teste"
+            },
+            {
+              "FieldID": 6766,
+              "Label": "Realizou compras nos últimos 60 dias? (Lj Física, Site, APP)",
+              "Value": "Não"
+            },
+            {
+              "FieldID": 6768,
+              "Label": "Onde? Mais de uma opção pode ser marcada",
+              "Value": "Aplicativo Carrefour"
+            },
+            {
+              "FieldID": 6770,
+              "Label": "Já realizou compras no site ou aplicativo Carrefour?",
+              "Value": "Não"
+            }
+          ],
+          "Type": 211,
+          "InstanceID": null,
+          "UserName": "Sistema",
+          "Protocolo": 400580698,
+          "AppName": null,
+          "ExpertFullName": null,
+          "Anexos": null,
+          "Origem": 8
+        },
+        {
+          "Remetente": 3,
+          "WorkflowID": 770617318,
+          "ObsID": 87045758,
+          "Tipo": "1",
+          "SubProtocolo": 0,
+          "Mensagem": "teste",
+          "Date": "2022-04-20 11:41:10",
+          "ExpertID": 188714,
+          "InstanceID": null,
+          "DepartamentoID": 124266,
+          "ClassProtocoloTag": "[\"155194132\"]",
+          "Prazo": 48,
+          "Breadcrumb": "LGPD",
+          "Anexos": null,
+          "MsgTipo": 81,
+          "Type": "201",
+          "TypeText": "Abertura",
+          "ExpertFullName": "Tamiris Martin",
+          "DepartamentoNome": "LGPD",
+          "ClassificacaoTagNome": {
+            "155194132": {
+              "TreeName": "LGPD",
+              "Tags": "Solicitação > Cadastro > Confirmar Tratamento de Dados",
+              "TagID": 1128308,
+              "TagName": "LGPD > Solicitação > Cadastro > Confirmar Tratamento de Dados",
+              "TreeID": 8578
+            }
+          },
+          "Protocolo": 400580698,
+          "AppName": null,
+          "Origem": 8
+        },
+        {
+          "Remetente": 3,
+          "WorkflowID": 770617318,
+          "ObsID": 87045758,
+          "Tipo": "1",
+          "SubProtocolo": 0,
+          "Mensagem": "teste",
+          "Date": "2022-04-20 11:41:10",
+          "ExpertID": 188714,
+          "InstanceID": null,
+          "DepartamentoID": 124266,
+          "ClassProtocoloTag": "[\"155194132\"]",
+          "Prazo": 48,
+          "Breadcrumb": "LGPD",
+          "Anexos": null,
+          "MsgTipo": "201",
+          "Type": "201",
+          "TypeText": "Abertura",
+          "ExpertFullName": "Tamiris Martin",
+          "DepartamentoNome": "LGPD",
+          "ClassificacaoTagNome": {
+            "155194132": {
+              "TreeName": "LGPD",
+              "Tags": "Solicitação > Cadastro > Confirmar Tratamento de Dados",
+              "TagID": 1128308,
+              "TagName": "LGPD > Solicitação > Cadastro > Confirmar Tratamento de Dados",
+              "TreeID": 8578
+            }
+          },
+          "Protocolo": 400580698,
+          "AppName": null
+        },
+        {
+          "Remetente": 10,
+          "Tipo": 53,
+          "SubProtocolo": 0,
+          "Date": "2022-04-20 11:41:10",
+          "MsgTipo": 211,
+          "Mensagem": "Dados complementares alterados  por operador <strong>Tamiris Martin</strong>",
+          "Message": "Dados complementares alterados  por operador <strong>Tamiris Martin</strong>",
+          "Type": 211,
+          "InstanceID": null,
+          "UserName": "Sistema",
+          "Protocolo": 400580698,
+          "AppName": null
+        },
+        {
+          "Tipo": 61,
+          "SubProtocolo": 0,
+          "Date": "2022-04-20 11:41:10",
+          "MsgTipo": 211,
+          "Mensagem": "<p><strong>LGPD - Clientes</strong></p><br><p><strong>Solicitante:</strong> Cliente</p><p><strong>Selecione o tipo de pedido::</strong> Quero solicitar a anonimização/bloqueio/eliminação dos meus dados</p><p><strong>E-mail:</strong> tamirismartin@yahoo.com.br</p><p><strong>Data de Nascimento:</strong> 22/01/1988</p><p><strong>Telefone:</strong> 11997833086</p><p><strong>Por que está abrindo esta solicitação?:</strong> teste</p><p><strong>Realizou compras nos últimos 60 dias? (Lj Física, Site, APP):</strong> Não</p><p><strong>Onde? Mais de uma opção pode ser marcada:</strong> Aplicativo Carrefour</p><p><strong>Já realizou compras no site ou aplicativo Carrefour?:</strong> Não</p>",
+          "Message": "<p><strong>LGPD - Clientes</strong></p><br><p><strong>Solicitante:</strong> Cliente</p><p><strong>Selecione o tipo de pedido::</strong> Quero solicitar a anonimização/bloqueio/eliminação dos meus dados</p><p><strong>E-mail:</strong> tamirismartin@yahoo.com.br</p><p><strong>Data de Nascimento:</strong> 22/01/1988</p><p><strong>Telefone:</strong> 11997833086</p><p><strong>Por que está abrindo esta solicitação?:</strong> teste</p><p><strong>Realizou compras nos últimos 60 dias? (Lj Física, Site, APP):</strong> Não</p><p><strong>Onde? Mais de uma opção pode ser marcada:</strong> Aplicativo Carrefour</p><p><strong>Já realizou compras no site ou aplicativo Carrefour?:</strong> Não</p>",
+          "FormData": [
+            {
+              "FieldID": 6790,
+              "Label": "Solicitante",
+              "Value": "Cliente"
+            },
+            {
+              "FieldID": 6756,
+              "Label": "Selecione o tipo de pedido:",
+              "Value": "Quero solicitar a anonimização/bloqueio/eliminação dos meus dados"
+            },
+            {
+              "FieldID": 6758,
+              "Label": "E-mail",
+              "Value": "tamirismartin@yahoo.com.br"
+            },
+            {
+              "FieldID": 6760,
+              "Label": "Data de Nascimento",
+              "Value": "22/01/1988"
+            },
+            {
+              "FieldID": 6762,
+              "Label": "Telefone",
+              "Value": "11997833086"
+            },
+            {
+              "FieldID": 6764,
+              "Label": "Por que está abrindo esta solicitação?",
+              "Value": "teste"
+            },
+            {
+              "FieldID": 6766,
+              "Label": "Realizou compras nos últimos 60 dias? (Lj Física, Site, APP)",
+              "Value": "Não"
+            },
+            {
+              "FieldID": 6768,
+              "Label": "Onde? Mais de uma opção pode ser marcada",
+              "Value": "Aplicativo Carrefour"
+            },
+            {
+              "FieldID": 6770,
+              "Label": "Já realizou compras no site ou aplicativo Carrefour?",
+              "Value": "Não"
+            }
+          ],
+          "Type": 211,
+          "InstanceID": null,
+          "UserName": "Sistema",
+          "Protocolo": 400580698,
+          "AppName": null
+        },
+        {
+          "Remetente": 3,
+          "WorkflowID": 770617318,
+          "ObsID": 87048990,
+          "Tipo": "2",
+          "SubProtocolo": 0,
+          "Mensagem": "EM PROCESSO DE ELIMINA??O DOS DADOS",
+          "Date": "2022-04-20 12:09:58",
+          "ExpertID": 194592,
+          "InstanceID": 3876,
+          "DepartamentoID": 124266,
+          "ClassProtocoloTag": null,
+          "Prazo": 48,
+          "Breadcrumb": "LGPD",
+          "Anexos": null,
+          "MsgTipo": 81,
+          "Type": "202",
+          "TypeText": "Interna",
+          "ExpertFullName": "ONE Trust",
+          "DepartamentoNome": "LGPD",
+          "Protocolo": 400580698,
+          "AppName": "App - App Chamado Geral",
+          "Origem": 8
+        },
+        {
+          "Remetente": 3,
+          "WorkflowID": 770617318,
+          "ObsID": 87048990,
+          "Tipo": "2",
+          "SubProtocolo": 0,
+          "Mensagem": "EM PROCESSO DE ELIMINA??O DOS DADOS",
+          "Date": "2022-04-20 12:09:58",
+          "ExpertID": 194592,
+          "InstanceID": 3876,
+          "DepartamentoID": 124266,
+          "ClassProtocoloTag": null,
+          "Prazo": 48,
+          "Breadcrumb": "LGPD",
+          "Anexos": null,
+          "MsgTipo": "202",
+          "Type": "202",
+          "TypeText": "Interna",
+          "ExpertFullName": "ONE Trust",
+          "DepartamentoNome": "LGPD",
+          "Protocolo": 400580698,
+          "AppName": "App - App Chamado Geral"
+        },
+        {
+          "Remetente": 3,
+          "WorkflowID": 770617318,
+          "ObsID": 87049050,
+          "Tipo": "2",
+          "SubProtocolo": 0,
+          "Mensagem": "Concluir",
+          "Date": "2022-04-20 12:10:42",
+          "ExpertID": 194592,
+          "InstanceID": 3876,
+          "DepartamentoID": 124266,
+          "ClassProtocoloTag": null,
+          "Prazo": 48,
+          "Breadcrumb": "LGPD",
+          "Anexos": null,
+          "MsgTipo": 81,
+          "Type": "202",
+          "TypeText": "Interna",
+          "ExpertFullName": "ONE Trust",
+          "DepartamentoNome": "LGPD",
+          "Protocolo": 400580698,
+          "AppName": "App - App Chamado Geral",
+          "Origem": 8
+        },
+        {
+          "Remetente": 3,
+          "WorkflowID": 770617318,
+          "ObsID": 87049050,
+          "Tipo": "2",
+          "SubProtocolo": 0,
+          "Mensagem": "Concluir",
+          "Date": "2022-04-20 12:10:42",
+          "ExpertID": 194592,
+          "InstanceID": 3876,
+          "DepartamentoID": 124266,
+          "ClassProtocoloTag": null,
+          "Prazo": 48,
+          "Breadcrumb": "LGPD",
+          "Anexos": null,
+          "MsgTipo": "202",
+          "Type": "202",
+          "TypeText": "Interna",
+          "ExpertFullName": "ONE Trust",
+          "DepartamentoNome": "LGPD",
+          "Protocolo": 400580698,
+          "AppName": "App - App Chamado Geral"
+        },
+        {
+          "Remetente": 3,
+          "WorkflowID": 770617318,
+          "ObsID": 87053350,
+          "Tipo": "2",
+          "SubProtocolo": 0,
+          "Mensagem": "CONCLU?DO, ENVIAMOS AO TITULAR INFORMA??ES E ORIENTA??ES SOBRE O PROCESSO DE EXCLUS?O DOS DADOS. Ol? Tamiris! O time de Privacidade e Prote??o de Dados do Carrefour informa o recebimento de sua solicita??o para a elimina??o de seus dados pessoais de nossa base e, conforme solicita??o, seguimos com a exclus?o de sua conta em nossas bases de comunica??o, tais como e-mail e SMS. A elimina??o da sua conta da nossa base de clientes cadastrados tem como efeito a perda do seu login de acesso ?s plataformas de E-commerce e Aplicativo Carrefour Brasil. Consequentemente, tamb?m h? a perda de v?nculo da conta com as demais informa??es como hist?rico de compras, cupons, promo??es e eventuais benef?cios disponibilizados pelo Carrefour. O Carrefour reserva-se no direito de manter os dados pessoais em comprovantes fiscais, como de compras, atendimentos, trocas e estornos, para fins de cumprimento de obriga??es legais. Dito isto, tamb?m s?o mantidos os registros da presente solicita??o pelo prazo de 5 (cinco) anos a contar da conclus?o da demanda para a fins presta??o de contas de cumprimento das normas legais ?s autoridades administrativas e/ou judiciais.A elimina??o de dados pessoais das plataformas do Carrefour abrange os dados coletados at? o momento de conclus?o desta demanda, n?o impedindo que os seus dados sejam novamente coletados no futuro em caso de novo cadastro em nosso E-commerce/Aplicativo ou ao fornecer seus dados pessoais como identifica??o fiscal nas lojas f?sicas do Carrefour, ressalvadas as devidas finalidades no momento de coleta.Esperamos que, no futuro, o Carrefour tenha uma nova oportunidade de lhe proporcionar uma melhor experi?ncia como cliente. Continuamos ? disposi??o para lhe atender da melhor forma. Atenciosamente, Time de Privacidade e Prote??o de Dados",
+          "Date": "2022-04-20 12:49:42",
+          "ExpertID": 194592,
+          "InstanceID": 3876,
+          "DepartamentoID": 124266,
+          "ClassProtocoloTag": null,
+          "Prazo": 48,
+          "Breadcrumb": "LGPD",
+          "Anexos": null,
+          "MsgTipo": 81,
+          "Type": "202",
+          "TypeText": "Interna",
+          "ExpertFullName": "ONE Trust",
+          "DepartamentoNome": "LGPD",
+          "Protocolo": 400580698,
+          "AppName": "App - App Chamado Geral",
+          "Origem": 8
+        },
+        {
+          "Remetente": 3,
+          "WorkflowID": 770617318,
+          "ObsID": 87053350,
+          "Tipo": "2",
+          "SubProtocolo": 0,
+          "Mensagem": "CONCLU?DO, ENVIAMOS AO TITULAR INFORMA??ES E ORIENTA??ES SOBRE O PROCESSO DE EXCLUS?O DOS DADOS. Ol? Tamiris! O time de Privacidade e Prote??o de Dados do Carrefour informa o recebimento de sua solicita??o para a elimina??o de seus dados pessoais de nossa base e, conforme solicita??o, seguimos com a exclus?o de sua conta em nossas bases de comunica??o, tais como e-mail e SMS. A elimina??o da sua conta da nossa base de clientes cadastrados tem como efeito a perda do seu login de acesso ?s plataformas de E-commerce e Aplicativo Carrefour Brasil. Consequentemente, tamb?m h? a perda de v?nculo da conta com as demais informa??es como hist?rico de compras, cupons, promo??es e eventuais benef?cios disponibilizados pelo Carrefour. O Carrefour reserva-se no direito de manter os dados pessoais em comprovantes fiscais, como de compras, atendimentos, trocas e estornos, para fins de cumprimento de obriga??es legais. Dito isto, tamb?m s?o mantidos os registros da presente solicita??o pelo prazo de 5 (cinco) anos a contar da conclus?o da demanda para a fins presta??o de contas de cumprimento das normas legais ?s autoridades administrativas e/ou judiciais.A elimina??o de dados pessoais das plataformas do Carrefour abrange os dados coletados at? o momento de conclus?o desta demanda, n?o impedindo que os seus dados sejam novamente coletados no futuro em caso de novo cadastro em nosso E-commerce/Aplicativo ou ao fornecer seus dados pessoais como identifica??o fiscal nas lojas f?sicas do Carrefour, ressalvadas as devidas finalidades no momento de coleta.Esperamos que, no futuro, o Carrefour tenha uma nova oportunidade de lhe proporcionar uma melhor experi?ncia como cliente. Continuamos ? disposi??o para lhe atender da melhor forma. Atenciosamente, Time de Privacidade e Prote??o de Dados",
+          "Date": "2022-04-20 12:49:42",
+          "ExpertID": 194592,
+          "InstanceID": 3876,
+          "DepartamentoID": 124266,
+          "ClassProtocoloTag": null,
+          "Prazo": 48,
+          "Breadcrumb": "LGPD",
+          "Anexos": null,
+          "MsgTipo": "202",
+          "Type": "202",
+          "TypeText": "Interna",
+          "ExpertFullName": "ONE Trust",
+          "DepartamentoNome": "LGPD",
+          "Protocolo": 400580698,
+          "AppName": "App - App Chamado Geral"
+        },
+        {
+          "Remetente": 3,
+          "WorkflowID": 770617318,
+          "ObsID": 87073428,
+          "Tipo": "2",
+          "SubProtocolo": 0,
+          "Mensagem": "CONCLU?DO, FINALIZAMOS A ELIMINA??O DOS DADOS E ORIENTAMOS O TITULAR POR E-MAIL. O time de Privacidade e Prote??o de Dados do Carrefour informa o recebimento de sua solicita??o para a elimina??o de seus dados pessoais de nossa base e, conforme solicita??o, seguimos com a exclus?o de sua conta em nossas bases de comunica??o, tais como e-mail e SMS.A elimina??o da sua conta da nossa base de clientes cadastrados tem como efeito a perda do seu login de acesso ?s plataformas de E-commerce e Aplicativo Carrefour Brasil. Consequentemente, tamb?m h? a perda de v?nculo da conta com as demais informa??es como hist?rico de compras, cupons, promo??es e eventuais benef?cios disponibilizados pelo Carrefour. O Carrefour reserva-se no direito de manter os dados pessoais em comprovantes fiscais, como de compras, atendimentos, trocas e estornos, para fins de cumprimento de obriga??es legais. Dito isto, tamb?m s?o mantidos os registros da presente solicita??o pelo prazo de 5 (cinco) anos a contar da conclus?o da demanda para a fins presta??o de contas de cumprimento das normas legais ?s autoridades administrativas e/ou judiciais.A elimina??o de dados pessoais das plataformas do Carrefour abrange os dados coletados at? o momento de conclus?o desta demanda, n?o impedindo que os seus dados sejam novamente coletados no futuro em caso de novo cadastro em nosso E-commerce/Aplicativo ou ao fornecer seus dados pessoais como identifica??o fiscal nas lojas f?sicas do Carrefour, ressalvadas as devidas finalidades no momento de coleta. Esperamos que, no futuro, o Carrefour tenha uma nova oportunidade de lhe proporcionar uma melhor experi?ncia como cliente. Continuamos ? disposi??o para lhe atender da melhor forma.",
+          "Date": "2022-04-20 16:09:55",
+          "ExpertID": 194592,
+          "InstanceID": 3876,
+          "DepartamentoID": 124266,
+          "ClassProtocoloTag": null,
+          "Prazo": 48,
+          "Breadcrumb": "LGPD",
+          "Anexos": null,
+          "MsgTipo": 81,
+          "Type": "202",
+          "TypeText": "Interna",
+          "ExpertFullName": "ONE Trust",
+          "DepartamentoNome": "LGPD",
+          "Protocolo": 400580698,
+          "AppName": "App - App Chamado Geral",
+          "Origem": 8
+        },
+        {
+          "Remetente": 3,
+          "WorkflowID": 770617318,
+          "ObsID": 87073428,
+          "Tipo": "2",
+          "SubProtocolo": 0,
+          "Mensagem": "CONCLU?DO, FINALIZAMOS A ELIMINA??O DOS DADOS E ORIENTAMOS O TITULAR POR E-MAIL. O time de Privacidade e Prote??o de Dados do Carrefour informa o recebimento de sua solicita??o para a elimina??o de seus dados pessoais de nossa base e, conforme solicita??o, seguimos com a exclus?o de sua conta em nossas bases de comunica??o, tais como e-mail e SMS.A elimina??o da sua conta da nossa base de clientes cadastrados tem como efeito a perda do seu login de acesso ?s plataformas de E-commerce e Aplicativo Carrefour Brasil. Consequentemente, tamb?m h? a perda de v?nculo da conta com as demais informa??es como hist?rico de compras, cupons, promo??es e eventuais benef?cios disponibilizados pelo Carrefour. O Carrefour reserva-se no direito de manter os dados pessoais em comprovantes fiscais, como de compras, atendimentos, trocas e estornos, para fins de cumprimento de obriga??es legais. Dito isto, tamb?m s?o mantidos os registros da presente solicita??o pelo prazo de 5 (cinco) anos a contar da conclus?o da demanda para a fins presta??o de contas de cumprimento das normas legais ?s autoridades administrativas e/ou judiciais.A elimina??o de dados pessoais das plataformas do Carrefour abrange os dados coletados at? o momento de conclus?o desta demanda, n?o impedindo que os seus dados sejam novamente coletados no futuro em caso de novo cadastro em nosso E-commerce/Aplicativo ou ao fornecer seus dados pessoais como identifica??o fiscal nas lojas f?sicas do Carrefour, ressalvadas as devidas finalidades no momento de coleta. Esperamos que, no futuro, o Carrefour tenha uma nova oportunidade de lhe proporcionar uma melhor experi?ncia como cliente. Continuamos ? disposi??o para lhe atender da melhor forma.",
+          "Date": "2022-04-20 16:09:55",
+          "ExpertID": 194592,
+          "InstanceID": 3876,
+          "DepartamentoID": 124266,
+          "ClassProtocoloTag": null,
+          "Prazo": 48,
+          "Breadcrumb": "LGPD",
+          "Anexos": null,
+          "MsgTipo": "202",
+          "Type": "202",
+          "TypeText": "Interna",
+          "ExpertFullName": "ONE Trust",
+          "DepartamentoNome": "LGPD",
+          "Protocolo": 400580698,
+          "AppName": "App - App Chamado Geral"
+        },
+        {
+          "Remetente": 3,
+          "WorkflowID": 770617318,
+          "ObsID": 87073738,
+          "Tipo": "2",
+          "SubProtocolo": 0,
+          "Mensagem": "CONCLU?DO, FINALIZAMOS A ELIMINA??O DOS DADOS E ORIENTAMOS O TITULAR POR E-MAIL. O time de Privacidade e Prote??o de Dados do Carrefour informa o recebimento de sua solicita??o para a elimina??o de seus dados pessoais de nossa base e, conforme solicita??o, seguimos com a exclus?o de sua conta em nossas bases de comunica??o, tais como e-mail e SMS.A elimina??o da sua conta da nossa base de clientes cadastrados tem como efeito a perda do seu login de acesso ?s plataformas de E-commerce e Aplicativo Carrefour Brasil. Consequentemente, tamb?m h? a perda de v?nculo da conta com as demais informa??es como hist?rico de compras, cupons, promo??es e eventuais benef?cios disponibilizados pelo Carrefour. O Carrefour reserva-se no direito de manter os dados pessoais em comprovantes fiscais, como de compras, atendimentos, trocas e estornos, para fins de cumprimento de obriga??es legais. Dito isto, tamb?m s?o mantidos os registros da presente solicita??o pelo prazo de 5 (cinco) anos a contar da conclus?o da demanda para a fins presta??o de contas de cumprimento das normas legais ?s autoridades administrativas e/ou judiciais.A elimina??o de dados pessoais das plataformas do Carrefour abrange os dados coletados at? o momento de conclus?o desta demanda, n?o impedindo que os seus dados sejam novamente coletados no futuro em caso de novo cadastro em nosso E-commerce/Aplicativo ou ao fornecer seus dados pessoais como identifica??o fiscal nas lojas f?sicas do Carrefour, ressalvadas as devidas finalidades no momento de coleta. Esperamos que, no futuro, o Carrefour tenha uma nova oportunidade de lhe proporcionar uma melhor experi?ncia como cliente. Continuamos ? disposi??o para lhe atender da melhor forma.",
+          "Date": "2022-04-20 16:12:30",
+          "ExpertID": 194592,
+          "InstanceID": 3876,
+          "DepartamentoID": 124266,
+          "ClassProtocoloTag": null,
+          "Prazo": 48,
+          "Breadcrumb": "LGPD",
+          "Anexos": null,
+          "MsgTipo": 81,
+          "Type": "202",
+          "TypeText": "Interna",
+          "ExpertFullName": "ONE Trust",
+          "DepartamentoNome": "LGPD",
+          "Protocolo": 400580698,
+          "AppName": "App - App Chamado Geral",
+          "Origem": 8
+        },
+        {
+          "Remetente": 3,
+          "WorkflowID": 770617318,
+          "ObsID": 87073738,
+          "Tipo": "2",
+          "SubProtocolo": 0,
+          "Mensagem": "CONCLU?DO, FINALIZAMOS A ELIMINA??O DOS DADOS E ORIENTAMOS O TITULAR POR E-MAIL. O time de Privacidade e Prote??o de Dados do Carrefour informa o recebimento de sua solicita??o para a elimina??o de seus dados pessoais de nossa base e, conforme solicita??o, seguimos com a exclus?o de sua conta em nossas bases de comunica??o, tais como e-mail e SMS.A elimina??o da sua conta da nossa base de clientes cadastrados tem como efeito a perda do seu login de acesso ?s plataformas de E-commerce e Aplicativo Carrefour Brasil. Consequentemente, tamb?m h? a perda de v?nculo da conta com as demais informa??es como hist?rico de compras, cupons, promo??es e eventuais benef?cios disponibilizados pelo Carrefour. O Carrefour reserva-se no direito de manter os dados pessoais em comprovantes fiscais, como de compras, atendimentos, trocas e estornos, para fins de cumprimento de obriga??es legais. Dito isto, tamb?m s?o mantidos os registros da presente solicita??o pelo prazo de 5 (cinco) anos a contar da conclus?o da demanda para a fins presta??o de contas de cumprimento das normas legais ?s autoridades administrativas e/ou judiciais.A elimina??o de dados pessoais das plataformas do Carrefour abrange os dados coletados at? o momento de conclus?o desta demanda, n?o impedindo que os seus dados sejam novamente coletados no futuro em caso de novo cadastro em nosso E-commerce/Aplicativo ou ao fornecer seus dados pessoais como identifica??o fiscal nas lojas f?sicas do Carrefour, ressalvadas as devidas finalidades no momento de coleta. Esperamos que, no futuro, o Carrefour tenha uma nova oportunidade de lhe proporcionar uma melhor experi?ncia como cliente. Continuamos ? disposi??o para lhe atender da melhor forma.",
+          "Date": "2022-04-20 16:12:30",
+          "ExpertID": 194592,
+          "InstanceID": 3876,
+          "DepartamentoID": 124266,
+          "ClassProtocoloTag": null,
+          "Prazo": 48,
+          "Breadcrumb": "LGPD",
+          "Anexos": null,
+          "MsgTipo": "202",
+          "Type": "202",
+          "TypeText": "Interna",
+          "ExpertFullName": "ONE Trust",
+          "DepartamentoNome": "LGPD",
+          "Protocolo": 400580698,
+          "AppName": "App - App Chamado Geral"
+        },
+        {
+          "Remetente": 10,
+          "Tipo": 69,
+          "SubProtocolo": 0,
+          "Date": "2022-08-01 17:52:03",
+          "MsgTipo": 211,
+          "Mensagem": "Protocolo aberto <strong>01/08/2022 17:51:46</strong> e fechado <strong>01/08/2022 17:52:03</strong> sem tratativa por <strong>Daniel de Carvalho</strong>",
+          "Message": "Protocolo aberto <strong>01/08/2022 17:51:46</strong> e fechado <strong>01/08/2022 17:52:03</strong> sem tratativa por <strong>Daniel de Carvalho</strong>",
+          "Type": 211,
+          "InstanceID": null,
+          "UserName": "Sistema",
+          "Protocolo": 400580698,
+          "AppName": null
+        }
+      ],
+      "configBacen": null,
+      "FromHistorico": 1,
+      "FromMA": null,
+      "DepartamentoID": 124266,
+      "Associados": [],
+      "SubProtocoloAtivo": 0,
+      "AppName": null,
+      "ConsumidorObj": {
+        "CustomerID": 67914474,
+        "Name": "Tamiris",
+        "EMail": "tamirismartin@yahoo.com.br",
+        "FieldU": "35330227810",
+        "FieldA": "(11) 99783-3086",
+        "FieldB": "11997833086",
+        "FieldC": "",
+        "FieldD": "",
+        "FieldE": "+5511996743136",
+        "Date": "2020-10-21 13:37:19",
+        "DateUpdate": "2023-06-22 16:00:40",
+        "EMails": [
+          [
+            "EMail",
+            "tamirismartin@yahoo.com.br"
+          ]
+        ],
+        "CpfsCnpjs": [
+          [
+            "FieldU",
+            "35330227810"
+          ]
+        ],
+        "ClassConsumidor": {
+          "rows": [],
+          "total": 0,
+          "IDs": null
+        },
+        "Telefones": [],
+        "TelefonesWhatsapp": [],
+        "TelefonesClienteWhatsapp": [],
+        "HideFields": null
+      },
+      "LegendaProtocoloResolution": "Apagada",
+      "LastCC": null,
+      "Enquete": null,
+      "EnqueteWorkflow": null
+    },
+    {
+      "Origem": "14",
+      "Protocolo": 319172518,
+      "ChatBotID": 10482578,
+      "CategoryID": 406894,
+      "DateInitTalk": "2021-07-15 16:49:21",
+      "DateFinishedTalk": "2021-07-15 16:49:21",
+      "Preview": "",
+      "CustomerIP": "",
+      "Tema": "vcarrefourflut",
+      "Rate": null,
+      "Status": "1",
+      "ClassificacaoID": 0,
+      "ClassificacaoIDTag": null,
+      "LockTime": null,
+      "LockExpert": null,
+      "TempoRespostaTotal": 0,
+      "CustomerID": 67914474,
+      "PriorizacaoComportamento": 0,
+      "Date": "2021-07-15 16:49:21",
+      "DateUpdate": "2021-07-15 16:49:21",
+      "Mensagens": [],
+      "FromHistorico": 1,
+      "FromMA": null,
+      "Associados": [],
+      "SubProtocoloAtivo": 0,
+      "ExpertID": null,
+      "ExpertFullName": null,
+      "AppName": null,
+      "CategoryName": "OLD - NÃO MEXER > Ecommerce > Loja Online",
+      "ConsumidorObj": {
+        "CustomerID": 67914474,
+        "Name": "Tamiris",
+        "EMail": "tamirismartin@yahoo.com.br",
+        "FieldU": "35330227810",
+        "FieldA": "(11) 99783-3086",
+        "FieldB": "11997833086",
+        "FieldC": "",
+        "FieldD": "",
+        "FieldE": "+5511996743136",
+        "Date": "2020-10-21 13:37:19",
+        "DateUpdate": "2023-06-22 16:00:40",
+        "EMails": [
+          [
+            "EMail",
+            "tamirismartin@yahoo.com.br"
+          ]
+        ],
+        "CpfsCnpjs": [
+          [
+            "FieldU",
+            "35330227810"
+          ]
+        ],
+        "ClassConsumidor": {
+          "rows": [],
+          "fromcache": 1,
+          "L2CACHE": 1,
+          "total": 0,
+          "IDs": null
+        },
+        "Telefones": [],
+        "TelefonesWhatsapp": [],
+        "TelefonesClienteWhatsapp": [],
+        "HideFields": null
+      },
+      "LegendaProtocoloResolution": "Novo",
+      "LastCC": null,
+      "Enquete": null,
+      "EnqueteWorkflow": null
+    }
+  ],
+  "NumberPages": 4,
+  "CurrentPage": 1,
+  "FilterContext": {
+    "origem": "1,2,3,4,5,7,8,9,12,13,14,15,16",
+    "page": 4,
+    "sortColumn": "TimeInsert",
+    "sortDirection": "DESC",
+    "customerField": [
+      {
+        "FieldU": "35330227810"
+      }
+    ],
+    "tipo_filtro": "AND"
+  }
+}
